@@ -6,6 +6,8 @@ app.use(cors())
 // localhost:3000
 const PORT = 3000 || process.env.PORT
 
+// testkommentar
+
 // um auf umgebunsvariable zuzugreifen
 require('dotenv').config()
 
