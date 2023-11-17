@@ -4,10 +4,11 @@ const cors = require('cors')
 const fs = require('fs')
 app.use(cors())
 // localhost:3000
-const PORT = 3000 || process.env.PORT
 
 // um auf umgebunsvariable zuzugreifen
 require('dotenv').config()
+
+const PORT = 3000 || process.env.PORT
 
 let globallist
 
