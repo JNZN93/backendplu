@@ -6,8 +6,6 @@ app.use(cors())
 // localhost:3000
 const PORT = 3000 || process.env.PORT
 
-// testkommentar
-
 // um auf umgebunsvariable zuzugreifen
 require('dotenv').config()
 
@@ -27,16 +25,15 @@ fs.readFile("plulist.json", 'utf8', (err, liste) => {
   }
 )
 
-
+// localhost:3000/   oder dein eigener Render Server
 app.get("/", function(req,res){
-                // JSON OBJECT
+      console.log("Hauptseite wird aufgerufen!")
     res.json({ message:'Willkommen bei der PLU APP' })
 })
 
-// localhost:3000/plulist
+// localhost:3000/plulist   oder eigener Render Server
 app.get('/plulist', function(req, res) {
-    // JSON ARRAY
-    console.log(globallist)
+    console.log("Liste wurde an Frontend weitergegeben")
     res.send(globallist); 
   });
 
