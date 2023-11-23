@@ -2,723 +2,867 @@
     {
         "name": "Grüne Kiwi 1kg",
         "plu": 2,
-        "img": "/img/2.png"
+        "img": "/img/2.png",
+        "kategorie": "Obst"
         
     },
     {
         "name": "Zwiebeln gelb 1kg",
         "plu": 4,
-        "img": "/img/4.png"
+        "img": "/img/4.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Gurke Stück",
         "plu": 5,
-        "img": "/img/5.png"
+        "img": "/img/5.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Mini Romarispentomaten",
         "plu": 6,
-        "img": "/img/6.png"
+        "img": "/img/6.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Eisbergsalat",
         "plu": 8,
-        "img": "/img/8.png"
+        "img": "/img/8.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Kartoffel Drillinge 1kg",
         "plu": 9,
-        "img": "/img/9.png"
+        "img": "/img/9.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Blumenkohl Stück",
         "plu": 10,
-        "img": "/img/10.png"
+        "img": "/img/10.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Äpfel 600g",
         "plu": 11,
-        "img": "/img/11.png"
+        "img": "/img/11.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Kartoffel vorwiegend selbstkochend 2.5kg",
         "plu": 13,
-        "img": "/img/13.png"
+        "img": "/img/13.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Rispentomaten 1kg",
         "plu": 16,
-        "img": "/img/16.png"
+        "img": "/img/16.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Champignons weiß 250g",
         "plu": 17,
-        "img": "/img/17.png"
+        "img": "/img/17.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Feldsalat 150g",
         "plu": 18,
-        "img": "/img/18.png"
+        "img": "/img/18.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Clementinen mit Blatt",
         "plu": 19,
-        "img": "/img/19.png"
+        "img": "/img/19.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Äpfel Kanzi",
         "plu": 21,
-        "img": "/img/21.png"
+        "img": "/img/21.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Pflaumen 500g",
         "plu": 23,
-        "img": "/img/23.png"
+        "img": "/img/23.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Karotten 2kg",
         "plu": 26,
-        "img": "/img/26.png"
+        "img": "/img/26.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Birnen 600g",
         "plu": 27,
-        "img": "/img/27.png"
+        "img": "/img/27.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio Zwiebeln rot 500g",
         "plu": 30,
-        "img": "/img/30.png"
+        "img": "/img/30.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Tomaten",
         "plu": 32,
-        "img": "/img/32.png"
+        "img": "/img/32.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Grapefruit Stück",
         "plu": 33,
-        "img": "/img/33.png"
+        "img": "/img/33.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Rote Beete vakuumiert 500g",
         "plu": 35,
-        "img": "/img/35.png"
+        "img": "/img/35.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Lauch/Porree Stück",
         "plu": 36,
-        "img": "/img/36.png"
+        "img": "/img/36.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Kartoffeln festkochend 2.5kg",
         "plu": 37,
-        "img": "/img/37.png"
+        "img": "/img/37.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Chicoree 500g",
         "plu": 38,
-        "img": "/img/38.png"
+        "img": "/img/38.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Schalotten 250g",
         "plu": 39,
-        "img": "/img/39.png"
+        "img": "/img/39.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Knoblauch weiß 200g",
         "plu": 40,
-        "img": "/img/40.png"
+        "img": "/img/40.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Kohlrabi Stück",
         "plu": 41,
-        "img": "/img/41.png"
+        "img": "/img/41.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Radieschen Bund",
         "plu": 42,
-        "img": "/img/42.png"
+        "img": "/img/42.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Kopfsalat mit Wurzelballen",
         "plu": 45,
-        "img": "/img/45.png"
+        "img": "/img/45.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Zuckermais 400g vakumiert",
         "plu": 46,
-        "img": "/img/46.png"
+        "img": "/img/46.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Ananas Stück",
         "plu": 47,
-        "img": "/img/47.png"
+        "img": "/img/47.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Mango Stück",
         "plu": 48,
-        "img": "/img/48.png"
+        "img": "/img/48.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Heidelbeeren 300g",
         "plu": 50,
-        "img": "/img/50.png"
+        "img": "/img/50.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio-Ingwer 300g",
         "plu": 52,
-        "img": "/img/52.png"
+        "img": "/img/52.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Traubel hell 500g",
         "plu": 53,
-        "img": "/img/53.png"
+        "img": "/img/53.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Birnen Nashi Stück",
         "plu": 54,
-        "img": "/img/54.png"
+        "img": "/img/54.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Kräuterseitlinge 150g",
         "plu": 57,
-        "img": "/img/57.png"
+        "img": "/img/57.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Kaki Stück",
         "plu": 58,
-        "img": "/img/58.png"
+        "img": "/img/58.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio NL Karotten 1kg",
         "plu": 59,
-        "img": "/img/59.png"
+        "img": "/img/59.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Blattspinat 500g",
         "plu": 64,
-        "img": "/img/64.png"
+        "img": "/img/64.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Snack Paprika",
         "plu": 68,
-        "img": "/img/68.png"
+        "img": "/img/68.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Äpfel Braeburn 1kg",
         "plu": 69,
-        "img": "/img/59.png"
+        "img": "/img/59.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Rosenkohl 750g",
         "plu": 70,
-        "img": "/img/70.png"
+        "img": "/img/70.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Avocado 2 Stück",
         "plu": 71,
-        "img": "/img/71.png"
+        "img": "/img/71.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Staudensellerie Stück",
         "plu": 72,
-        "img": "/img/72.png"
+        "img": "/img/72.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Feldsalat 100g",
         "plu": 73,
-        "img": "/img/73.png"
+        "img": "/img/73.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Granatäpfel Stück",
         "plu": 75,
-        "img": "/img/75.png"
+        "img": "/img/75.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio Kartoffeln 1.5kg",
         "plu": 76,
-        "img": "/img/76.png"
+        "img": "/img/76.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Physalis 100g",
         "plu": 77,
-        "img": "/img/77.png"
+        "img": "/img/77.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Heidelbeeren 125g",
         "plu": 78,
-        "img": "/img/78.png"
+        "img": "/img/78.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Himbeeren",
         "plu": 79,
-        "img": "/img/79.png"
+        "img": "/img/79.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio Topfkräuter Mix",
         "plu": 84,
-        "img": "/img/84.png"
+        "img": "/img/84.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio NL Zitronen 500g",
         "plu": 85,
-        "img": "/img/85.png"
+        "img": "/img/85.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Suppengemüse 800g",
         "plu": 86,
-        "img": "/img/86.png"
+        "img": "/img/86.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Avocado Stück",
         "plu": 89,
-        "img": "/img/89.png"
+        "img": "/img/89.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Zitronen Stück",
         "plu": 92,
-        "img": "/img/92.png"
+        "img": "/img/92.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio NL Butternut",
         "plu": 95,
-        "img": "/img/95.png"
+        "img": "/img/95.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Äpfel Gala 1kg",
         "plu": 99,
-        "img": "/img/99.png"
+        "img": "/img/99.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Kartoffeln VW Fk 4kg",
         "plu": 103,
-        "img": "/img/103.png"
+        "img": "/img/103.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Wintergemüse Mix bunt",
         "plu": 106,
-        "img": "/img/106.png"
+        "img": "/img/106.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Chinakohl",
         "plu": 107,
-        "img": "/img/107.png"
+        "img": "/img/107.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Buschbohnen 400g",
         "plu": 111,
-        "img": "/img/111.png"
+        "img": "/img/111.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Gurke Stück",
         "plu": 115,
-        "img": "/img/115.png"
+        "img": "/img/115.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio NL Clementinen 750g",
         "plu": 116,
-        "img": "/img/116.png"
+        "img": "/img/116.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Salatherzen 2er",
         "plu": 120,
-        "img": "/img/120.png"
+        "img": "/img/120.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Cherryrispentomaten",
         "plu": 121,
-        "img": "/img/121.png"
+        "img": "/img/121.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Cocktailtomaten 400g",
         "plu": 122,
-        "img": "/img/122.png"
+        "img": "/img/122.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Spitzpaprika rot",
         "plu": 123,
-        "img": "/img/123.png"
+        "img": "/img/123.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Wirsing lose",
         "plu": 125,
-        "img": "/img/125.png"
+        "img": "/img/125.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Birnen grün 1kg",
         "plu": 126,
-        "img": "/img/126.png"
+        "img": "/img/126.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Datteltomaten 500g",
         "plu": 127,
-        "img": "/img/127.png"
+        "img": "/img/127.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Bio FT Limetten 4er",
         "plu": 128,
-        "img": "/img/128.png"
+        "img": "/img/128.png",
+        "kategorie":"Obst"
     },
     {
         "name": "Passionsfrüchte Stück",
         "plu": 129,
-        "img": "/img/129.png"
+        "img": "/img/129.png",
+        "kategorie":"Obst"
     },
     {
         "name": "Breite Bohnen 500g",
         "plu": 130,
-        "img": "/img/130.png"
+        "img": "/img/130.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Spitzpaprika Mix",
         "plu": 132,
-        "img": "/img/132.png"
+        "img": "/img/132.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Zwiebelspezialitäten",
         "plu": 133,
-        "img": "/img/133.png"
+        "img": "/img/133.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Bio Champignons braun 250g",
         "plu": 135,
-        "img": "/img/135.png"
+        "img": "/img/135.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Spitzpaprika weiß 500g",
         "plu": 136,
-        "img": "/img/136.png"
+        "img": "/img/136.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Austernpilze 200g",
         "plu": 139,
-        "img": "/img/139.png"
+        "img": "/img/139.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Chilli Mix 50g",
         "plu": 141,
-        "img": "/img/141.png"
+        "img": "/img/141.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Datteltomaten 250g",
         "plu": 142,
-        "img": "/img/142.png"
+        "img": "/img/142.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Rucola 125g",
         "plu": 144,
-        "img": "/img/144.png"
+        "img": "/img/144.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Trauben dunkel 500g",
         "plu": 146,
-        "img": "/img/146.png"
+        "img": "/img/146.png",
+        "kategorie":"Obst"
     },
     {
         "name": "Lauchzwiebeln Stück",
         "plu": 149,
-        "img": "/img/149.png"
+        "img": "/img/149.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Endiviensalat Stück",
         "plu": 150,
-        "img": "/img/150.png"
+        "img": "/img/150.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Kürbis Mix lose",
         "plu": 151,
-        "img": "/img/151.png"
+        "img": "/img/151.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Bio Datteltomaten",
         "plu": 152,
-        "img": "/img/152.png"
+        "img": "/img/152.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Pfannen Mix",
         "plu": 154,
-        "img": "/img/154.png"
+        "img": "/img/154.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Äpfel Elstar 1.1kg",
         "plu": 157,
-        "img": "/img/157.png"
+        "img": "/img/157.png",
+        "kategorie":"Obst"
     },
     {
         "name": "Bio Topf Basilikum",
         "plu": 159,
-        "img": "/img/159.png"
+        "img": "/img/159.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Champignons weiß/braun 250g ",
         "plu": 160,
-        "img": "/img/160.png"
+        "img": "/img/160.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Feine Blattsalate",
         "plu": 161,
-        "img": "/img/161.png"
+        "img": "/img/161.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Kaki KD 1kg",
         "plu": 162,
-        "img": "/img/162.png"
+        "img": "/img/162.png",
+        "kategorie":"Obst"
     },
     {
         "name": "Knoblauch frisch Stück",
         "plu": 163,
-        "img": "/img/163.png"
+        "img": "/img/163.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Bio Babyspinat 125g",
         "plu": 165,
-        "img": "/img/165.png"
+        "img": "/img/165.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Zwiebeln gelb 750g",
         "plu": 168,
-        "img": "/img/168.png"
+        "img": "/img/168.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Family Mix",
         "plu": 169,
-        "img": "/img/169.png"
+        "img": "/img/169.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Rote Beete Stück",
         "plu": 174,
-        "img": "/img/174.png"
+        "img": "/img/174.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Avocado 500g Netz",
         "plu": 175,
-        "img": "/img/175.png"
+        "img": "/img/175.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Galiamelone Stück",
         "plu": 177,
-        "img": "/img/177.png"
+        "img": "/img/177.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio Zucchini 500g",
         "plu": 178,
-        "img": "/img/178.png"
+        "img": "/img/178.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Knollensellerie",
         "plu": 202,
-        "img": "/img/202.png"
+        "img": "/img/202.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Wurzelgemüse Mix 250g",
         "plu": 205,
-        "img": "/img/205.png"
+        "img": "/img/205.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Äpfel Greenstar",
         "plu": 207,
-        "img": "/img/207.png"
+        "img": "/img/207.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Romatomaten",
         "plu": 208,
-        "img": "/img/208.png"
+        "img": "/img/208.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Paprika 400g",
         "plu": 211,
-        "img": "/img/211.png"
+        "img": "/img/211.png",
+        "kategorie":"Gemüse"
     },
     {
         "name": "Fenchel",
         "plu": 212,
-        "img": "/img/212.png"
+        "img": "/img/212.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Äpfel Aldiamo lose",
         "plu": 213,
-        "img": "/img/213.png"
+        "img": "/img/213.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio Heidelbeeren 125g",
         "plu": 214,
-        "img": "/img/214.png"
+        "img": "/img/214.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio Hokkaido lose",
         "plu": 216,
-        "img": "/img/216.png"
+        "img": "/img/216.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Mandarinen 750g",
         "plu": 217,
-        "img": "/img/217.png"
+        "img": "/img/217.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio NL Orangen 1kg",
         "plu": 218,
-        "img": "/img/218.png"
+        "img": "/img/218.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Salat mit Wurzelballen",
         "plu": 220,
-        "img": "/img/220.png"
+        "img": "/img/220.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Birnen Q-Tee 600g",
         "plu": 223,
-        "img": "/img/223.png"
+        "img": "/img/223.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Champignons braun 400g",
         "plu": 225,
-        "img": "/img/225.png"
+        "img": "/img/225.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Kartoffeln mehlig kochend 2.5kg",
         "plu": 226,
-        "img": "/img/226.png"
+        "img": "/img/226.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Kiwi Gold Stück",
         "plu": 227,
-        "img": "/img/227.png"
+        "img": "/img/227.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Landgurke",
         "plu": 228,
-        "img": "/img/228.png"
+        "img": "/img/228.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Bio Karotten Mini Möhren",
         "plu": 231,
-        "img": "/img/231.png"
+        "img": "/img/231.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Äpfel KD 2kg",
         "plu": 233,
-        "img": "/img/233.png"
+        "img": "/img/233.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio Äpfel KD 1.25kg",
         "plu": 234,
-        "img": "/img/234.png"
+        "img": "/img/234.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Kiwi Gold 4 Stück",
         "plu": 235,
-        "img": "/img/235.png"
+        "img": "/img/235.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Saftorangen 1.5kg",
         "plu": 236,
-        "img": "/img/236.png"
+        "img": "/img/236.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Mandarinen lose",
         "plu": 238,
-        "img": "/img/238.png"
+        "img": "/img/238.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Auberginen Stück",
         "plu": 242,
-        "img": "/img/242.png"
+        "img": "/img/242.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Trauben hell lose",
         "plu": 244,
-        "img": "/img/244.png"
+        "img": "/img/244.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bio FT Bananen lose",
         "plu": 245,
-        "img": "/img/245.png"
+        "img": "/img/245.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Äpfel rot",
         "plu": 246,
-        "img": "/img/246.png"
+        "img": "/img/246.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Kiwi Grün Stück",
         "plu": 247,
-        "img": "/img/247.png"
+        "img": "/img/247.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bananen FT lose",
         "plu": 248,
-        "img": "/img/248.png"
+        "img": "/img/248.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Bananen lose",
         "plu": 251,
-        "img": "/img/251.png"
+        "img": "/img/251.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Birnen lose",
         "plu": 252,
-        "img": "/img/252.png"
+        "img": "/img/252.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Paprika rot lose",
         "plu": 253,
-        "img": "/img/253.png"
+        "img": "/img/253.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Rispentomaten lose",
         "plu": 254,
-        "img": "/img/254.png"
+        "img": "/img/254.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Trauben dunkel lose",
         "plu": 255,
-        "img": "/img/255.png"
+        "img": "/img/255.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Zucchini lose",
         "plu": 257,
-        "img": "/img/257.png"
+        "img": "/img/257.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Spitzkohl",
         "plu": 261,
-        "img": "/img/261.png"
+        "img": "/img/261.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Süßkartoffeln",
         "plu": 262,
-        "img": "/img/262.png"
+        "img": "/img/262.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Rotkohl lose",
         "plu": 265,
-        "img": "/img/265.png"
+        "img": "/img/265.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Sonnentomaten lose",
         "plu": 266,
-        "img": "/img/266.png"
+        "img": "/img/266.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Karotten lose",
         "plu": 267,
-        "img": "/img/267.png"
+        "img": "/img/267.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Wassermelone kernarm",
         "plu": 268,
-        "img": "/img/268.png"
+        "img": "/img/268.png",
+        "kategorie": "Obst"
     },
     {
         "name": "Weißkohl lose",
         "plu": 270,
-        "img": "/img/270.png"
+        "img": "/img/270.png",
+        "kategorie": "Gemüse"
     },
     {
         "name": "Orangen lose",
         "plu": 272,
-        "img": "/img/272.png"
+        "img": "/img/272.png",
+        "kategorie": "Obst"
     }
 
 ]
